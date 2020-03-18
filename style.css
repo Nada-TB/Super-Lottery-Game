@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 64.5%;
+}
+
+body{
+    width:100%;
+    margin: 50px auto;
+}
+
+h1{
+    text-align: center;
+    color: green;
+    font-size: 4rem;
+}
+
+main{
+    text-align: center;
+}
+
+#go{
+    width: 100px;
+    padding:5px;
+
+}
+
+#root{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 50px;
+}
+
+ #result{
+    font-size: 1.8rem;
+    color: sienna;
+    margin: 50px;
+}
+
+input{
+    width:20%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px dashed darkcyan;
+    color:red;
+}
+
+#start {
+    display: none;
+    margin: 50px;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+@media only screen and (min-width:767px){
+    #result{
+        font-size: 2.5rem;
+    }
+
+    body{
+        width: 50%;
+    }
+    input{
+        width:12%;
+    }
+}
