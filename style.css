@@ -32,7 +32,8 @@ main{
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: center;
-    margin: 50px;
+    margin: 50px; 
+    width:100%;
 }
 
  #result{
