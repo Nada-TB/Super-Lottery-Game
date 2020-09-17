@@ -1,9 +1,29 @@
-# Lottery_game
-* create a PHP file to handle the choice of numbers 
-* use Ajax/JS to show the result
+# Lottery game : [link](https://super-lottery-game.herokuapp.com/)
 
-## home Page :
-![home](homeLottery.png)
+## How to play :
+  Click the button "GO" to find out if your combination is the winning one! You got ten trials
+  
+## the game's features:  
+ * Create an event attached to the button "GO".
+* Create a combination of six numbers randomly.
+* Fetch a new combination result every time we click on the button "GO".
+* If the first number modulo two and the last number modulo six are equals to zero: end of the game, the player wins.
+* The button (GO) is disabled: if the game is over or the player wins.
 
-## when you start playing:
-![lottery](lottery.png)
+## Development process:
+* Create a PHP function to handle the result.
+* Fetch the result using AJAX.
+
+## Programming concepts applied:
+javaScript  |  PHP
+----------- | ----------
+DOM Document | array mathods
+DOM events | while loop
+Array method map | the function rand()
+DOM methods | JSON
+condition (if/else) |
+XMLHttpRequest |
+JSON |
+
+
+
