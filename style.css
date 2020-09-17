@@ -14,7 +14,7 @@ body{
 h1{
     text-align: center;
     color: green;
-    font-size: 5rem;
+    font-size: 4rem;
 }
 
 main{
@@ -33,11 +33,11 @@ main{
     flex-wrap: nowrap;
     justify-content: center;
     margin: 50px auto;
-    font-size:2rem;
+    width:85%;
 }
 
  #result{
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: sienna;
     margin: 50px;
 }
@@ -45,10 +45,11 @@ main{
 input{
     width:20%;
     text-align: center;
-    padding: 20px;
+    padding: 10px 5px;
     border-radius: 20px;
     border: 2px dashed darkcyan;
     color:red;
+    font-size: 1.6rem;
 }
 
 #start {
