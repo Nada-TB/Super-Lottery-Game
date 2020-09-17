@@ -33,7 +33,6 @@ main{
     flex-wrap: nowrap;
     justify-content: center;
     margin: 50px auto;
-    width:85%;
 }
 
  #result{
@@ -43,7 +42,7 @@ main{
 }
 
 input{
-    width:15%;
+    width:20%;
     text-align: center;
     padding: 10px 5px;
     border-radius: 20px;
