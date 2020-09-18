@@ -2,8 +2,11 @@
 
 ## How to play :
   Click the button "GO" to find out if your combination is the winning one! You got ten trials
+* ### [The game's features](#the-games-features)
+* ### [Development process](#development-process-1)	
+* ### [Programming concepts applied](#programming-concepts-applied-1)
   
-## the game's features:  
+# The game's features:  
  * Create an event attached to the button "GO".
 * Create a combination of six numbers randomly.
 * Fetch a new combination result every time we click on the button "GO".
