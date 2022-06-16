@@ -1,5 +1,9 @@
 # Lottery game : [link](https://super-lottery-game.herokuapp.com/)
 
+## DEmo
+
+https://user-images.githubusercontent.com/50797024/174049684-c4f68f2f-a7e3-42a5-a89d-9a22d9264383.mp4 
+
 ## How to play :
   Click the button "GO" to find out if your combination is the winning one! You got ten trials
 * ### [The game's features](#the-games-features)
